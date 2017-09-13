@@ -18,7 +18,6 @@ minima:
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
 theme: minima
 exclude:
   - Gemfile
